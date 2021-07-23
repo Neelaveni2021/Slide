@@ -1,0 +1,31 @@
+.primary {
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    font-size: x-large;
+    margin-top: 50px;
+    font-family: 'Amatic SC', cursive;
+    font-family: 'Open Sans Condensed', sans-serif;
+    
+    
+
+}
+.paragraphh {
+    color:#fdc921;
+    margin-top: 50px;
+    margin-left: 200px;
+    margin-right: 200px;
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-weight: lighter;
+    word-spacing: 2px;
+    
+
+    
+}
+.business {
+    color:#fdc921;
+    margin-left:350px;
+    margin-top: 80px;
+    font-weight: normal;
+
+}
